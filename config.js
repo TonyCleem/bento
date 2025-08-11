@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Google Task',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://tasks.google.com/tasks/',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Devman',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://dvmn.org/user/tonycleem/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Spotify',
+					link: 'https://www.spotify.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Soft Rain',
+					link: 'https://www.youtube.com/watch?v=RPTYBLDqBt4',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'LoFi Beats',
+					link: 'https://www.youtube.com/watch?v=TtdaSQDc5XU&t=3580s',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Music for work',
+					link: 'https://www.youtube.com/watch?v=-sZqtdT-GVw&t=2012s',
 				},
 			],
 		},
