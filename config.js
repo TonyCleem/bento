@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Reddit',
+					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Pinterest',
+					link: 'https://ru.pinterest.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'DeepSeek',
+					link: 'https://chat.deepseek.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: '3xui panel',
+					link: '195.133.75.198:2053/fjuJHLYrzW/',
 				},
 			],
 		},
