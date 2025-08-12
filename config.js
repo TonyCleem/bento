@@ -174,7 +174,7 @@ const CONFIG = {
 				},
 				{
 					name: '3xui panel',
-					link: '195.133.75.198:2053/fjuJHLYrzW/',
+					link: 'http://195.133.75.198:2053/fjuJHLYrzW/',
 				},
 			],
 		},
