@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'https://api.open-meteo.com/v1/forecast?latitude=55.0344&longitude=82.9434&hourly=temperature_2m&current=temperature_2m', // Write here your API Key
+	weatherKey: "https://api.openweathermap.org/data/2.5", // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
